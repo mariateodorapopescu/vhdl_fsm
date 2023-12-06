@@ -1,6 +1,4 @@
-# Bit-Drink Vending Machine
-
-Welcome to the Bit-Drink Vending Machine project! 🥤🤖
+# Drink Vending Machine
 
 In this project, we've designed an 8-bit vending machine that provides customers with two beverage options and accepts 1, 5, and 10 lei banknotes. The entire system is implemented in VHDL, a powerful hardware description language.
 
