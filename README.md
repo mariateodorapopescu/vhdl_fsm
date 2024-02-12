@@ -16,4 +16,4 @@ Here's a breakdown of how our vending machine operates:
 
 ## How to Use
 
-Each aspect of the vending machine's functionality is implemented in VHDL. The code provides a detailed understanding of the system's operation. Feel free to explore the implementation and reach out if you have any questions or suggestions. Quench your thirst for knowledge! 🚀🥤👩‍💻👨‍💻
+Each aspect of the vending machine's functionality is implemented in VHDL. The code provides a detailed understanding of the system's operation. Feel free to explore the implementation and reach out if you have any questions or suggestions.
